@@ -214,4 +214,4 @@ Hidetools Child Control is available as a complete free version with all feature
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-08 16:49:39 UTC
+**Last updated:** 2026-11-08 20:51:40 UTC
